@@ -5216,3 +5216,10 @@
 ||kok204.com^
 ||hpl2wtx.com^
 # blacklist
+! 网易云音乐精简
+music.163.com##.lst
+music.163.com##.m-topvd.f-pr.m-creator-center
+music.163.com##.m-multi
+music.163.com##.n-ban.d-flag
+music.163.com##a[target="_blank"]
+music.163.com##.g-ft
