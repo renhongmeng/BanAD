@@ -5216,7 +5216,7 @@ googletagservices.com^
 ||kok204.com^
 ||hpl2wtx.com^
 # blacklist
-! 网易云音乐精简
+# 网易云音乐精简
 music.163.com##.lst
 music.163.com##.m-topvd.f-pr.m-creator-center
 music.163.com##.m-multi
@@ -5288,25 +5288,25 @@ music.163.com##.g-ft
 ||package.box.xiaomi.com^
 ||ota.cdn.pandora.xiaomi.com^
 ||ad1.xiaomi.com^
-! ------加强屏蔽Start------ !
-!酷安"提到的好物"
+# ------加强屏蔽Start------ #
+#酷安"提到的好物"
 ||coolapk.com/v6/page/dataList?$replace=/extra_entities//
 ||coolapk.com/v6/feed/detail?$replace=/extra_entities//
 ||coolapk.com/v6/main/indexV?$replace=/extra_entities//
 ||coolapk.com/v6/feed/detail?$replace=/extra_title//
 ||coolapk.com/v6/feed/detail?$replace=/include_goods//
-!去除"什么值得买"
+#去除"什么值得买"
 ||coolapk.com/v6/main/indexV8?$replace=/\{"entityType":"card"\,"entityTemplate":"listCard".*?\}\,\{"id/{"id/
-!去除热搜
+#去除热搜
 ||coolapk.com/v6/main/init?$replace=/\{"data":\[\{"entityType":"card"\,"entityTemplate":"textCard"\,"title":"\\u70ed\\u95e8\\u641c\\u7d22".*?\}\,\{"entityType":"card"\,"entityTemplate":"configCard"/\{"data":[\{"entityType":"card"\,"entityTemplate":"configCard"/
 ||coolapk.com/v6/search?type=hotSearch$replace=/\{"data":\[.*\]/{"data":[]/
-!去除随机应用推荐
+#去除随机应用推荐
 ||coolapk.com/v6/main/indexV8?$replace=/\,\{.*?"entityType": "card"\,"entityTemplate":"apkImageCard".*?\}\,\{"id"/,{"id"/
-! 某广告
+# 某广告
 malimali2.com##div.leo-container:nth-child(4) > div:nth-child(7)
 malimali2.com##div.leo-container:nth-child(4) > div:nth-child(6)
 malimali2.com##div.leo-container:nth-child(4) > div:nth-child(5)
-! 腾讯的广点通(优量汇)和字节跳动的穿山甲广告
+# 腾讯的广点通(优量汇)和字节跳动的穿山甲广告
 ||access1.tpns.tencent.com^
 ||astrategy.beacon.qq.com^
 ||aeventlog.beacon.qq.com^
@@ -6842,4 +6842,285 @@ malimali2.com##div.leo-container:nth-child(4) > div:nth-child(5)
 ||tralog.ganji.com^
 ||up.qingdaonews.com^
 ||vaserviece.10jqka.com.cn^
-! -------加强屏蔽End------- !
+#酷狗
+||adsfileretry.service.kugou.com
+||ads.service.kugou.com
+||adserviceretry.kglink.cn
+||adserviceretry.kugou.com
+#视频
+||api.tv.sohu.com
+||lives.l.qq.com
+||m.aty.sohu.com
+||py.da.mgtv.com
+||qc.hd.sohu.com.cn
+||t7z.cupid.iqiyi.com
+||y.da.hunantv.com
+#UC
+||vs1.szcu.u3.ucweb.com^
+||vs2.bjct.u3.ucweb.com^
+||vs2.bjct.u3.ucweb.com^$important
+||track.uc.cn^$important
+#腾讯系
+||minorshort.weixin.qq.com/mmtls^$app=com.tencent.mm
+||mp.weixin.qq.com/mp/advertisement^
+||mp.weixin.qq.com/mp/getappmsgad^
+||qqpublic.qpic.cn
+||android.rqd.qq.com
+||pingfore.qq.com^$app=com.tencent.mm
+#其他杂项
+||ifrus-in.coloros.com^
+||conn4.coloros.com^
+||setting.musicdream.club^
+||omes-sec.heytapmobile.com^
+||img-intl-push.heytapimg.com^
+||conf-in-dc.heytapmobile.com^
+||api-gl.cdo.heytapmobi.com^
+||log-eap-in.coloros.com^
+||api-in.store.heytapmobi.com^
+||conn1.oppomobile.com^
+||110-dot-in.teddymobile.cn^
+||moa-upload-in.allawnos.com^
+||client-uc.heytapmobi.com^
+||lang-in.coloros.com^
+||ifsau-in.coloros.com^
+||component-ota-in.coloros.com^
+||storeimg.heytapimg.com^
+||conn5.coloros.com^
+||icosa-sg.coloros.com^
+||videoclipf.apps.coloros.com^
+||httpdns.ocloud.oppomobile.com^
+||conn3.coloros.com^
+||gameimg.heytapimg.com^
+||epoch-in.cdo.heytapmobi.com^
+||api-in.cdo.heytapmobile.com^
+||mdp-appconf-sg.heytapdl.com^
+||classify-app-in.allawnos.com^
+||conf-in-dc.heytapdl.com^
+||gslb-gl.cdo.heytapmobi.com^
+||slb-apisnd-in.heytapmobile.com^
+||u-in.cpc.heytapmobile.com^
+||stat-in.dc.oppomobile.com^
+||in-store.realmemobile.com^
+||storedl5f.nearme.com.cn^
+||mdp-usertrace-in.heytapmobile.com^
+||oppo.publicvibe.com^
+||api.publicvibe.com^
+||proxyf.apps.oppomobile.com^
+||img.connectingmobile.com^
+||i6-in.weather.oppomobile.com^
+||realme-oem.avira-update.com^
+||obus-in.dc.heytapmobile.com^
+||appconf.heytapdownload.com^
+||icota-eu.coloros.com^
+||i-in01a-ocloud.heytapmobile.com^
+||smartcardf.apps.coloros.com^
+||obus-dc2-in.heytapmobile.com^
+||languagef-in.coloros.com^
+||obus-dc20123-in.heytapmobile.com^
+||fourier-videoclip-in.allawnos.com^
+||in-ilockcardf.realme.com ^
+||pizzaseo.com^^
+||movie2z.com/img/*.png^^
+||movie2z.com/img/*.jpg^^
+||movie2z.com/img/*.gif^^
+||www.facebook.com###jsc_c_3a > .j83agx80.bp9cbjyn^
+||www.facebook.com###jsc_c_3b > .j83agx80.bp9cbjyn^
+||www.facebook.com##.cxgpxx05 > div:nth-of-type(1) > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05^
+||www.facebook.com##.cxgpxx05 > div:nth-of-type(1) > div > .l9j0dhe7 > .aodizinl.e5nlhep0.cbu4d94t.j83agx80.du4w35lb.l9j0dhe7.rq0escxv^
+||www.newmovie-hd.org/wp-content/uploads/*/*/*.gif^^
+||www.037hdd.com/wp-content/uploads/*/*/*.png^^
+||www.doomovie-hd.com/assets/img/banner-new/*.gif^^
+||1.bp.blogspot.com/--97Xjt0E4sc/XeEwYvVoiLI/AAAAAAAAWzA/Z1aoE0IAK4k65yAQ-ZBXsvWFSz5gq0faACLcBGAsYHQ/s1600/0054-728x200.gif^^
+||1.bp.blogspot.com/-EB2Udc_1s2U/XtZnyr0-HDI/AAAAAAAAAx4/I4TbexlkqhQxLnKCd9yMyRkjuqEJEYEMACLcBGAsYHQ/s1600/Happy-fishing.gif^^
+||1.bp.blogspot.com/-cRz65OkVheQ/XnipkOqCyOI/AAAAAAAAAfQ/gv5s86aNWLs09arPX_95SaLDHNfmV4y-ACLcBGAsYHQ/s1600/Macau-728x200.gif^^
+||i.imgur.com/KW4rje4.gif^^
+||i.imgur.com/mUdMcUm.gif^^
+||i.imgur.com/F8wYTd1.gif^^
+||1.bp.blogspot.com/-YuGUCxmhj10/XnHadQigqvI/AAAAAAAAAd8/8bEX5mnUoAAwGKR96mACq_LbdsTNU4c4gCLcBGAsYHQ/s1600/728x400.jpg^^
+||1.bp.blogspot.com/-MwOy6Y4V5ss/XmnWekf57UI/AAAAAAAAAbc/wmEoKo61zvQ82D3R9m5pi1tRGqNDekwlwCLcBGAsYHQ/s1600/ban%25282%2529728-400.gif^^
+||1.bp.blogspot.com/-VHLgZfRy99Q/XrNDINyQMFI/AAAAAAAAAs4/esFev2WnqwQOjUKOVK4tZ7HQorALQ8GFgCLcBGAsYHQ/s1600/728x200.gif^^
+||1.bp.blogspot.com/-ExnwWWOm5OE/Xrf5mjN1YzI/AAAAAAAAAuI/HJU1wClaq9ws7ChjdrzV7zecr7c2nF2bgCLcBGAsYHQ/s1600/500.gif^^
+||i.imgur.com/hVrTxUy.gif^^
+||i.imgur.com/c5jz3rj.gif^^
+||1.bp.blogspot.com/-hexjsec6pU0/Xq2DIAUutYI/AAAAAAAAAqw/c6JTyV-_ABgnNInRkeWIB7gboIhTdKLBACLcBGAsYHQ/s1600/gbc-aura-min728x200.gif^^
+||1.bp.blogspot.com/-OQPQCskeLmo/Xq0lRrxts5I/AAAAAAAAAqU/lTz3pbl9sjwS0om8qC096QARNaskeNJ7ACLcBGAsYHQ/s1600/gif04.gif^^
+||i.imgur.com/qSzxK88.gif^^
+||i.imgur.com/U6Rfk3t.gif^^
+||1.bp.blogspot.com/-B9ViWSURDTQ/Xoc-20xo_dI/AAAAAAAAAj4/7kVvFShT4LwNDlN65bQqEmZ4wNYfDa5-ACLcBGAsYHQ/s1600/Next88.gif^^
+||1.bp.blogspot.com/-CyMMP22K7qU/Xoc-3c-YmBI/AAAAAAAAAj8/DRuD7IGhIMwyC_4j6dSDhraNGuAUwsozgCLcBGAsYHQ/s1600/Sbobet.gif^^
+||1.bp.blogspot.com/-Y97mS4-B6HA/Xoc-2Nxhu1I/AAAAAAAAAjw/0O8t4TCJvb0FihLhF6TB0xakagneP8aGACLcBGAsYHQ/s1600/GCLUBE-120_.gif^^
+||1.bp.blogspot.com/-gvVTDNxO4Fk/Xs5Us4cBLNI/AAAAAAAAAwo/SSis6QxsGN4FT3jfTboiuH-teVWRTh5QACLcBGAsYHQ/s1600/728x200-slotgame66.gif^^
+||1.bp.blogspot.com/-tlrbB0S66mM/Xs5UsFv0MII/AAAAAAAAAwk/k3QAve4RNO0FOOtJb1_crKzUpw2Moh8nwCLcBGAsYHQ/s1600/728x200-sagame1688.gif^^
+||1.bp.blogspot.com/-ZWwvlhAwiWY/Xs5Utdd74NI/AAAAAAAAAww/qlO285yocVUkLQpralyIT8ezmPzMJasJACLcBGAsYHQ/s1600/728x200-ufa191.gif^^
+||1.bp.blogspot.com/-YuKBwPuOryQ/Xs5UsPNR2QI/AAAAAAAAAwg/qugMD4QKaZ8X7963vcmCXQXEFsmGmkxggCLcBGAsYHQ/s1600/728x200-sexygame66.gif^^
+||1.bp.blogspot.com/-DFPzGIsUXkY/Xs5UsNeOhuI/AAAAAAAAAwc/IIirgAgvsSEfRLR-tUh7pw6osLxGMLxuwCLcBGAsYHQ/s1600/728x200-sagame66.gif^^
+||1.bp.blogspot.com/-dOq_UJW5cUM/XqY2zNeBChI/AAAAAAAAAoM/Jin9em82n18-xa-MmdwDl_B6bHW08b32QCLcBGAsYHQ/s1600/2.gif^^
+||1.bp.blogspot.com/-P0H5K0-ySrw/XqY2zJrQALI/AAAAAAAAAoQ/NM7uDwWPIFsYJz82tAbQBSUidAmV6eOYQCLcBGAsYHQ/s1600/1.gif^^
+||1.bp.blogspot.com/-_xu_5GAi724/Xs5UtF3MwYI/AAAAAAAAAws/6IEFhMRaGB8CaLY3EOuM5r5Gs5l2iDHKQCLcBGAsYHQ/s1600/728x200-ssgame66.gif^^
+||i.imgur.com/rPYXdrf.gif^^
+||www.dubai9999.com/backend_admin/banner_link//uploads/*.gif^^
+||tidjor.com/wp-content/uploads/*/*/*.gif^^
+||www.i-moviehd.com/wp-content/uploads/*/*/*.gif^^
+||www.android-x86.org##.brid-touch-overlay^
+||videos.increaserev.com/us/*.mp4$media^
+||www.android-x86.org##.brid-button.brid-overlay-play-button > span > svg > path^
+||www.newmovie-hd.org/wp-content/uploads/*/*/*.gif$image^
+||images.allwebview3.com/*.gif$image^
+||nungs.io/Resources/Assets/images/*.gif$image^
+||nungdeedee.com/uploads/images/*.gif$image^
+||www.doomovie-hd.com##div.floating_ads_bt-mid_container:nth-of-type(4)^
+||www.doomovie-hd.com##div.floating_ads_bt-mid_container:nth-of-type(7)^
+||www.doomovie-hd.com##.right-side_floating_ad.side_floating_ad > .b > [href="#"] > [src^="data:image/png;base64,"]^
+||www.doomovie-hd.com##[href="https://www.sexyauto168.com/"] > [src^="data:image/gif;base64,"]^
+||www.doomovie-hd.com##article > div.horizontal-ad-bar100 > [href="#"] > [src^="data:image/jpg;base64,"]^
+||www.doomovie-hd.com##.left-side_floating_ad.side_floating_ad > .b > [href="#"] > [src^="data:image/png;base64,"]^
+||www.doomovie-hd.com##.x > .side_floating_ad_close_btn > span^
+||www.doomovie-hd.com##.x2 > .side_floating_ad_close_btn > span^
+||www.doomovie-hd.com##[href="https://www.pussy888win.com/"] > [src^="data:image/gif;base64,"]^
+||www.doomovie-hd.com##[href^="https://www.sexybaccarat168.com/"] > [src^="data:image/gif;base64,"]^
+||www.037hdmovie.com/Banner/*.gif$image^
+||movie2uhd.com/wp-content/uploads/*/*/*.gif$image^
+||movie2uhd.com###media_image-113 > .close-ad^
+||movie2uhd.com###media_image-111 > .close-ad^
+||movie2uhd.com##.ad-float-bottom^
+||downdetector.com##.evidon-barrier-acceptmessage^
+||downdetector.com###_evidon-background^
+||downdetector.com###_evidon-banner-content > div^
+||downdetector.com##.evidon-barrier^
+||downdetector.com###_evidon-barrier-wrapper^
+||1.bp.blogspot.com/-Es_k2CFsDT0/X8rTaN1D11I/AAAAAAAAK_0/J9bKg_cs1YkSiEConRE3bXbuLn7rxLKBwCLcBGAsYHQ/s0/Hydra888.gif$image^
+||1.bp.blogspot.com/-f7vJ0XyNGk0/X4Lthwt3tGI/AAAAAAAAKBY/AdPrLKL0JuIxCntcXsq8fx5mqS1c45KoACLcBGAsYHQ/s0/panama888.gif$image^
+||www.doomovie-hd.com##div.horizontal-ad-bar100 > [href^="https://affnew.s3-ap-southeast-1.amazonaws.com/sexy168.aff.html"] > [src^="data:image/gif;base64,"]^
+||www.doomovie-hd.com##[href="https://www.superslotfun.com/"] > [src^="data:image/gif;base64,"]^
+||www.doomovie-hd.com##.right-side_floating_ad.side_floating_ad > .b^
+||www.doomovie-hd.com##[href^="https://affnew.s3-ap-southeast-1.amazonaws.com/pussy888play.aff.html"] > [src^="data:image/gif;base64,"]^
+||www.doomovie-hd.com##[href="https://www.ambpoker66.com/"] > [src^="data:image/gif;base64,"]^
+||www.doomovie-hd.com##[href^="https://affnew.s3-ap-southeast-1.amazonaws.com/WINBETTH.aff.html"] > [src^="data:image/gif;base64,"]^
+||www.doomovie-hd.com##.left-side_floating_ad.side_floating_ad > .b^
+||www.doomovie-hd.com/assets/img/banner-new/*.gif$image^
+||www.doomovie-hd.com##div.horizontal-ad-bar100 > [href^="https://affnew.s3-ap-southeast-1.amazonaws.com/918kissauto.aff.html"] > [src^="data:image/gif;base64,"]^
+||www.doomovie-hd.com##.topad_mid > div > [href^="https://affnew.s3-ap-southeast-1.amazonaws.com/sexy168.aff.html"] > [src^="data:image/gif;base64,"]^
+||www.doomovie-hd.com##[href="https://www.allbaccarat168.com/"] > [src^="data:image/gif;base64,"]^
+||www.doomovie-hd.com##[href^="https://affnew.s3-ap-southeast-1.amazonaws.com/slotxo24hr.aff.html"] > [src^="data:image/gif;base64,"]^
+||www.doomovie-hd.com##[href^="https://affnew.s3-ap-southeast-1.amazonaws.com/pgslot99.aff.html"] > [src^="data:image/gif;base64,"]^
+||www.doomovie-hd.com##td.topad_side > [href^="https://affnew.s3-ap-southeast-1.amazonaws.com/918kissauto.aff.html"] > [src^="data:image/gif;base64,"]^
+||www.doomovie-hd.com##[href="https://www.joker123th.com/"] > [src^="data:image/gif;base64,"]^
+||www.doomovie-hd.com##.content-body > div.horizontal-ad-bar100 > [href="#"] > [src^="data:image/jpg;base64,"]^
+||www.doomovie-hd.com##[href="https://www.joker123auto.com/"] > [src^="data:image/gif;base64,"]^
+||www.anime-master.com/upload/*.gif$image^
+||animekimi.com##[href="https://panama888.com/"] > .lazy.animekimi-banner^
+||animekimi.com##[href="https://ufa1919.com/"] > .lazy.animekimi-banner^
+||animekimi.com###animekimiads1^
+||www.doomovie-hd.com/assets/img/banner-new/MV4.jpg$image^
+||cdn.shortpixel.ai/client/to_avif,q_glossy,ret_img,w_150,h_300/https://www.animesiam.com/wp-content/uploads/2021/01/SLOTXO-%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95-XO-SLOTXO-THAI.jpg$image^
+||cdn.shortpixel.ai/client/to_avif,q_glossy,ret_img,w_600,h_200/https://www.animesiam.com/wp-content/uploads/2021/01/%E0%B8%84%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B9%82%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-@GALAXY-TH.jpg$image^
+||www.slotxo-gold.com/wp-content/uploads/2021/02/SlotXO-XOslot-%E0%B8%AA%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%95-XO-%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2-SLOTXO-1234.jpg$image^
+||www.animesiam.com##.close-left^
+||cdn.shortpixel.ai/client/to_avif,q_glossy,ret_img,w_600,h_200/https://www.animesiam.com/wp-content/uploads/2021/01/Pornhub-th.jpg$image^
+||www.pornhubdownload.com###itfloater_closeev^
+||www.pornhubdownload.com##.itfloater_headline^
+||www.pornhubdownload.com##div.itfloater_row:nth-of-type(2)^
+||www.pornhubdownload.com##.itfloater_btn^
+||www.pornhubdownload.com###itfloater_wd^
+||robertjackson413b.eklablog.com##.didomi-popup-notice-text > span^
+||robertjackson413b.eklablog.com##.didomi-popup-notice-with-data-processing.didomi-popup-notice-info-type.didomi-popup-notice.didomi-popup__dialog.didomi-popup-container^
+||robertjackson413b.eklablog.com##.didomi-popup__backdrop.didomi-notice-popup.didomi-popup-backdrop^
+||movie222hd.com/wp-content/uploads/*.gif$image^
+||baner.msa-video.com/*.jpg$image^
+||www.doofree88.com/images/fslider/*.gif$image^
+||i.imgur.com/SmUrDCr.gif$image^
+||i.imgur.com/TxIj2H9.gif$image^
+||i.imgur.com/1KTIMFM.gif$image^
+||i.imgur.com/BzA9rvJ.gif$image^
+||i.imgur.com/papxNuj.gif$image^
+||i.imgur.com/cLYlNca.gif$image^
+||i.imgur.com/qkHdzEr.gif$image^
+||i.imgur.com/byjeyMM.gif$image^
+||i.imgur.com/RqhqywG.gif$image^
+||i.imgur.com/XKgH0Q4.gif$image^
+||i.imgur.com/Teyhx7s.gif$image^
+||i.imgur.com/VyCIl5v.gif$image^
+||i.imgur.com/t5oXWuT.gif$image^
+||cloud.h-ani.com/i/HAJ0NOP.gif$image^
+||cloud.h-ani.com/i/6h8G3Gw.gif$image^
+||cloud.h-ani.com/i/pQhrkg2.gif$image^
+||cloud.h-ani.com/i/Fwd2Iar.gif$image^
+||cloud.h-ani.com/i/*.gif$image^
+||storage.googleapis.com/powerwork-bucket/ads/*.gif$image^
+||storage.googleapis.com/powerwork-bucket/ads/*/*.gif$image^
+||www.dojinxxx.com##.banner-right.left-right-banner > .button-close-banner.close-banner^
+||www.dojinxxx.com##.footer-banner > .button-close-banner.close-banner^
+||imgvivo.xyz###pbe > [src^="data:image/gif;base64,"]^
+||imgvivo.xyz###pbe^
+||nyjixoco.com/b/3.Vq0ePR3vp/v/bAmnVaJuZVDn0Q0xMSTqQg4ZN/z/MzyVLITZQUx/N/DIgN3qMrz_MQ?tb=http://imgbe.xyz/vip/ccccx.html$subdocument^
+||www.img08.xyz/assets/img/banner-new/RFLOAT-120x380.png$image^
+||www.doomovie-hd.com##div.floating_ads_bt-mid_container > button > span^
+||www.doomovie-hd.com##.right-side_floating_ad.side_floating_ad > .b > [href] > [src]^
+||www.doomovie-hd.com##div.floating_ads_bt-mid_container:nth-of-type(6)^
+||www.doomovie-hd.com##div.floating_ads_bt-mid_container:nth-of-type(3)^
+||www.doomovie-hd.com##.left-side_floating_ad.side_floating_ad^
+||www.ilike-movie.com##path^
+||www.img01.xyz/assets/img/banner-new/*.gif$image^
+||www.037hdmovie.com##.sidebar-right^
+||www.037hdmovie.com/Banner/*.png$image^
+||www.037hdmovie.com/wp-content/uploads/*/*/*.gif$image^
+||www.movie2fin.com/images/banners/*.gif$image^
+||www.i-moviehd.com/wp-content/uploads/*/*/*.gif$image^
+||www.img08.xyz/assets/img/*/*.gif$image^
+||www.movie678.com/images/banners/*.gif$image^
+||_services._dns-sd._udp.local
+||feedback.71.am
+||img3.funshion.com
+||irs01.com
+||*martrix_bbs.gif
+||*martrix_bbs.jpg
+||01bz
+||4r.c691t.cn
+||buyujj.club^$important
+||dioimg.net^$important
+||ed.g2q3e.cn^$important
+||extshort.weixin.qq.com/mmtls^$app=com.tencent.mm
+||jianzhi456.com^$important
+||jingwoxin.com^$important
+||m.dpisfzv.cn
+||diyibanzhu
+||mao.1f866.com^$important
+||nz04com.com^$important
+||oimageb7.ydstatic.com^$important
+||packet.cf^$important
+||v.jingwoxin.com/huobao/2114/index.html^$important
+||v.jingwoxin.com^$important
+/cloud/aliyun/youhui.jpg
+||www.qtlianmeng.com
+||www.sxeimg.com^$important
+||xiaoluoyl.com^$important
+||bbs.sxshczs.cn^$important
+||re.fddcpxg.cn^$important
+#一些奇怪的大量请求
+||5hz.org^$important
+||pizzaseo.com^$important
+#各种奇葩色情广告
+||21511.ua96.com
+||inews.gtimg.com
+||cbu01.alicdn.com/img/ibank/*
+||tyc20202.com^$important
+||tu2.jinpaigz.com
+||o.fwmdafm.cn^$important
+||www.b0fe2304c355.com^$important
+||sdk.nouzhu.cn
+||l.infwd.xyz
+||mo.umlzk.xyz^$important
+||eo.umlzk.xyz^$important
+||f.gxrwc.xyz^$important
+||d.rzskdw.cn^$important
+||l.pnsblw.cn^$important
+||diyibanzhu^$important
+||l.pnsblw.cn
+||ll.axyim.cn^$important
+||kr.axyqd.cn^$important
+||open.lalanuz.cn^$important
+||dybz^$important
+||m.nnhtf.cn^$important
+||fpbbdx2.bmcx.com^$important
+||fpbbdx1.bmcx.com^$important
+# -------加强屏蔽End------- #
