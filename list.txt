@@ -5327,6 +5327,11 @@ malimali2.com##div.leo-container:nth-child(4) > div:nth-child(5)
 ||mssdk-bu.snssdk.com^
 ||aaid.umeng.com^
 ||img14.360buyimg.com^
+||mcs.snssdk.com^
+||mercury.snssdk.com^
+||lf.snssdk.com^
+||isub.snssdk.com^
+||ic.snssdk.com^
 ||i.snssdk.com^
 ||is.snssdk.com^
 ||pangolin.snssdk.com^
