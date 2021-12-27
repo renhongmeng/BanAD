@@ -5344,4 +5344,6 @@ malimali2.com##div.leo-container:nth-child(4) > div:nth-child(5)
 ||log-api.pangolin-sdk-toutiao-b.com^
 ||sf6-be-pack.pglstatp-toutiao.com^
 ||in-addr.arpa^
+||activity.baidu.com^
+||locoy.com^
 ! -------加强屏蔽End------- !
