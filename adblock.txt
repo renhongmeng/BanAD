@@ -2197,3 +2197,35 @@ zhihu.com##.RelatedCommodities-title
 zhihu.com##.RelatedCommodities-list
 static.zhihu.com/heifetz/main.signflow.*.js
 static.zhihu.com/heifetz/column.signflow.*.js
+www.baidu.com##.guide-info
+www.baidu.com##.s-hotsearch-wrapper
+tieba.baidu.com##.thread_recommend
+chaturbate.com,chatclimax.com##.ad
+chaturbate.com,chatclimax.com##.banner
+chaturbate.com,chatclimax.com##.bio a img[style*="absolute"]
+chaturbate.com,chatclimax.com##.bio a img[style*="fixed"]
+cnbeta.com##[class^="cbv"]
+cnbeta.com##[class$="cbv"]
+cnbeta.com###upcoming_box
+cnbeta.com##.article-global
+cnbeta.com##.article-topic
+cnbeta.com##.cnbeta-side-sponsor
+cnbeta.com##.meta span:last-child
+cnbeta.com##.meta-data .tks
+ithome.com##div[id^="tt"]
+ithome.com###hl-toutiao
+ithome.com##.AdblockBanner
+ithome.com##.it_focus
+ithome.com##.con-recom
+ithome.com##.con-recom + a[href^="http://m.ithome.com/"] img
+ithome.com##.shareto
+ithome.com##.rela-post
+ithome.com##.yj_d
+ithome.com###hd_float
+ithome.com###lapin
+greasyfork.org###script-show-info-ad
+finance.sina.com.cn##.blk_APP_JSl
+finance.sina.com.cn##.blk_APP_JSr
+jiemian.com###ad_header_top
+jiemian.com##.cnzz-ads
+jiemian.com##.jm-app
