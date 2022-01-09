@@ -726,7 +726,6 @@
 ||f4.market.xiaomi.com^
 ||f5.market.mi-img.com^
 ||f5.market.xiaomi.com^
-||facebook.com^
 ||fb.xk.miui.com^
 ||fbcdn2.com^
 ||fc-feed.cdn.bcebos.com^
