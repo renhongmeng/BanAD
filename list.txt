@@ -1607,7 +1607,6 @@
 ||union.6.cn^
 ||union.baidu.com^
 ||unionimage.baidu.com^
-||unpkg.com^
 ||up.cm.ksmobile.com^
 ||upapi.net^
 ||updatecenter.qq.com^
