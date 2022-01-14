@@ -766,7 +766,6 @@
 ||grumft.com^
 ||gs.getui.com^
 ||gslb.hpplay.cn^
-||gu.qlogo.cn^
 ||guanggaoad.youku.com^
 ||guanjia.baidu.com^
 ||gug.ku6cdn.com^
@@ -1235,8 +1234,6 @@
 ||pv.ott.hd.sohu.com^
 ||pv.sohu.com^
 ||px.ucweb.com^
-||py.qlogo.cn^
-||py2.qlogo.cn^
 ||q.i.gdt.qq.com^
 ||qchannel01.cn^
 ||qchannel01.cn^$app=cn.kuwo.player
@@ -1249,7 +1246,6 @@
 ||qiniucdncnc.inter.ptqy.gitv.tv^
 ||qiniu-web.super.cn^$domain=ke.super.cn,app=com.xtuone.android.syllabus
 ||qiniu-web.super.cn^$domain=score.super.cn,app=com.xtuone.android.syllabus
-||qlogo.cn^
 ||qosp.msg.71.am^
 ||qqbm.zhuiying.net^
 ||qqbmad.mycode8.net^
