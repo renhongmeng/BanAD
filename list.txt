@@ -1,14 +1,5 @@
 ||imc.l.qq.com^
-||*.ad.mi.com^
-||*.ad.xiaomi.com^
-||*.admaster.com.cn^
-||*.atianqi.com^
-||*.kuyun.com^
-||*.market.mi-img.com^
-||*.market.xiaomi.com^
 ||miaozhen.com^
-||*.pandora.mi.com^
-||*.pandora.xiaomi.com^
 ||umeng.com^
 ||zscctv.cn^
 ||1251.adsina.allyes.com^
@@ -738,10 +729,8 @@
 ||img.taotaosou.cn^
 ||img.twcczhu.com^
 ||img01.taotaosou.cn^
-||img1.360buyimg.com^
 ||img1.g.pptv.com^
 ||img1.sj.qq.com^
-||img14.360buyimg.com^
 ||img2.g.pptv.com^
 ||img3.g.pptv.com^
 ||img-x.jd.com^
@@ -840,7 +829,6 @@
 ||lstat.youku.com^
 ||lu.sogoucdn.com^
 ||lvip.youku.com^
-||m.360buyimg.com^
 ||m.atm.youku.com^
 ||m.aty.sohu.com^
 ||m.da.mgtv.com^
@@ -1219,7 +1207,6 @@
 ||ssl-youtube.2cnt.net^
 ||ssp.ad.xiaomi.com^
 ||ssv.admaster.com.cn^
-||st.360buyimg.com^
 ||st.vq.ku6.cn^
 ||stadig.ifeng.com^
 ||starfish.pandora.xiaomi.com^
@@ -1251,7 +1238,6 @@
 ||static1.baifendian.com^
 ||static8.pmadx.com^
 ||staticadm.leju.sina.com.cn^
-||static-alias-1.360buyimg.com^
 ||statis.api.3g.youku.com^
 ||statis.mobile.youku.com^
 ||stats.ipinyou.com^
@@ -1261,7 +1247,6 @@
 ||stg-data.ads.heytapmobi.com^
 ||stickyadstv.com^
 ||stizoolr.com^
-||storage.360buyimg.com^
 ||store.*.api.3g.youku.com^
 ||store.iqiyi.com^
 ||store.ptqy.gitv.tv^
@@ -1480,7 +1465,6 @@
 ||woocall.sina.com.cn^
 ||wp.com^
 ||wpadmngr.com^
-||wq.360buyimg.com^
 ||ws.ksmobile.net^
 ||ws.sj.qq.com^
 ||wspeed.qq.com^
