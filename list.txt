@@ -13,7 +13,6 @@
 ||2345.com^
 ||2d.net.co^
 ||2mdn.net^
-||35.232.188.118^
 ||397c0.admaster.com.cn^
 ||44.adsina.allyes.com^
 ||45.adsina.allyes.com^
