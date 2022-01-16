@@ -38,7 +38,6 @@
 ||a.ckm.iqiyi.com^
 ||a.cntv.cn^
 ||a.stat.xiaomi.com^
-||a1.alicdn.com^
 ||a1.cnblogs.com^
 ||a2put.chinaz.com^
 ||a4423.com^
