@@ -6,7 +6,6 @@
 ||1276.adsina.allyes.com^
 ||154.adsina.allyes.com^
 ||161.adsina.allyes.com^
-||182.254.116.116^
 ||1rx.io^
 ||2016.sina.cn^
 ||2052.flash2-http.qq.com^
