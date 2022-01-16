@@ -834,7 +834,6 @@
 ||m.da.mgtv.com^
 ||m.game.weibo.cn^
 ||m.intl.taobao.com^
-||m.qpic.cn^
 ||m.yes.youku.com^
 ||m1.baidu.com^
 ||m2.da.mgtv.com^
@@ -1570,12 +1569,10 @@
 ||only-819159-49-85-20-157.nstool.netease.com^
 ||p.koowo.com^
 ||p.l.qq.com^
-||p.qpic.cn/qqstory_pic^
 ||p3.fx.kgimg.com^
 ||pat.farvd.com^
 ||pms.mb.qq.com^
 ||qiniu.myfriday.cn^
-||qqpublic.qpic.cn^
 ||quapp.1122dh.com/adscom^
 ||report.huatuo.qq.com^
 ||rich.kuwo.cn^
