@@ -1639,10 +1639,8 @@
 ||adjust.com^
 ||mum.m.alibaba.com^
 ||haoma.baidu.com^
-||bigfun.cn^
 ||ubacollect-drcn.cloud.dbankcloud.cn^
 ||cdn.polyfill.io^
-||biligame.com^
 ||activity.hdslb.com^
 ||dl.txcdns.com^
 ||wts.xinwen.cn^
