@@ -263,7 +263,6 @@
 ||auth.api.gitv.tv^
 ||av758.com^
 ||avbebe.54647.website^
-||ax1x.com^
 ||azabu-u.ac.jp^
 ||b.bdstatic.com^
 ||b.smartvideo.youku.com^
