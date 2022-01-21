@@ -1541,7 +1541,6 @@
 ||gorgon.youdao.com^
 ||gzacshow.kugou.com^
 ||i-game.book.qq.com
-||imgcache.qq.com^
 ||interface.music.163.com/eapi/ad^
 ||isure.stream.qqmusic.qq.com^
 ||ke.youdao.com^
@@ -1641,12 +1640,9 @@
 ||activity.hdslb.com^
 ||dl.txcdns.com^
 ||wts.xinwen.cn^
-||url.cn^
 ||cd.xdplt.com^
-||ucweb.com^
 ||umeng.co^
 ||linkh5.xyz^
-||cdn-go.cn^
 ||redirect.simba.taobao.com^
 ||tns.simba.taobao.com^
 ||click.mz.simba.taobao.com^
