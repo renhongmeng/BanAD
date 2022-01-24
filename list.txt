@@ -1531,7 +1531,6 @@
 ||course1.myfriday.cn^
 ||dict.youdao.com/infoline?
 ||dl.stream.qqmusic.qq.com^
-||dldir1.qq.com^
 ||dsp-impr*.youdao.com^
 ||fd2.qchannel03.cn^
 ||fvedio.kuwo.cn^
