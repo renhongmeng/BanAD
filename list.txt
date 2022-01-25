@@ -264,7 +264,6 @@
 ||av758.com^
 ||avbebe.54647.website^
 ||azabu-u.ac.jp^
-||b.bdstatic.com^
 ||b.smartvideo.youku.com^
 ||b1-data.ads.heytapmobi.com^
 ||b2-data.ads.heytapmobi.com^
@@ -1500,7 +1499,6 @@
 ||znsv.baidu.com^
 ||zunsoach.com^
 ||zymo.mps.weibo.com^
-||zz.bdstatic.com^
 ||zz.m.sohu.com^
 ||zzy1.quyaoya.com^
 ||ad.xiaomi.cn^
