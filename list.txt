@@ -286,7 +286,6 @@
 ||appc.baidu.com^
 ||appgift.sinaapp.com^
 ||appjiagu.com^
-||applog.uc.cn^
 ||app-measurement.com^
 ||appsflyer.com^
 ||appstore.ptmi.gitv.tv^
@@ -1248,7 +1247,6 @@
 ||pv.hd.sohu.com^
 ||pv.ott.hd.sohu.com^
 ||pv.sohu.com^
-||px.ucweb.com^
 ||q.i.gdt.qq.com^
 ||qchannel01.cn^
 ||qhimg.com,domain=~so.com^
