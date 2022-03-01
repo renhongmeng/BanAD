@@ -411,7 +411,6 @@
 ||cjhq.baidu.com^
 ||ckm.iqiyi.com^
 ||cleaner.baidu.com^
-||click.aliyun.com^
 ||click.bes.baidu.com^
 ||click.gamersky.com^
 ||click.hd.sohu.com.cn^
