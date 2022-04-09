@@ -2783,3 +2783,8 @@
 ||bolecdn.com^
 ||0827591.com^
 ||1174383.com^
+||tonec.com^
+||registeridm.com^
+||secure.registeridm.com^
+||internetdownloadmanager.com^
+||secure.internetdownloadmanager.com^
