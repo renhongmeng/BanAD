@@ -71,7 +71,6 @@
 ||act.qzone.qq.com^
 ||active.tc.skysrt.com^
 ||actives.youku.com^
-||activity.baidu.com^
 ||activity.hdslb.com^
 ||ad.api.*.youku.com^
 ||ad.api.3g.tudou.com^
