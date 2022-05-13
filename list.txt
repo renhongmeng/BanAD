@@ -1572,8 +1572,6 @@
 ||m.aty.sohu.com^
 ||m.da.mgtv.com^
 ||m.game.weibo.cn^
-||m.intl.taobao.com^
-||m.simba.taobao.com^
 ||m.wrating.com^
 ||m.yes.youku.com^
 ||m1.baidu.com^
