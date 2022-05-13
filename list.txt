@@ -1,18 +1,10 @@
 @@||360buyimg.com^
-@@||appsupport.qq.com^
-@@||cards.iqiyi.com^
 @@||clients.l.google.com^
 @@||clients1.google.com^
 @@||clients2.google.com^
 @@||clients4.google.com^
 @@||cloud.oracle.com^
-@@||cloud.rongxingvr.cc^
-@@||dav.jianguoyun.com^
-@@||dig.bdurl.net^
-@@||g.huya.com^
-@@||img.zuoyebang.cc^
 @@||imgcache.qq.com^
-@@||jianghu.live2008.com^
 @@||open.e.189.cn^
 @@||t10.baidu.com^
 @@||t11.baidu.com^
@@ -56,12 +48,10 @@
 ||55.55kghjg.cn^
 ||5566ua.com^
 ||58.221.77.146^
-||58.60.9.29$network$app=com.tencent.qqmusic^
 ||58cdn.com.cn^
 ||58kantoutiao.cn^
 ||58kantoutiao.com^
 ||5hz.org^
-||60.28.219.29$app=cn.kuwo.player^
 ||60.adsina.allyes.com^
 ||6062c2dd54860e9957d7dec009ca0815.79755.com.cn^
 ||61.151.186.125:8080^
@@ -396,7 +386,6 @@
 ||api.apps.sina.cn^
 ||api.biggerv.cn^
 ||api.chelaile.net.cn^
-||api.chelaile.net.cn$app=com.tencent.mm^
 ||api.crispwireless.com^
 ||api.cupid.iqiyi.com^
 ||api.cupid.ptqy.gitv.tv^
@@ -779,7 +768,6 @@
 ||cpro.baidu.com^
 ||cpro.baidustatic.com^
 ||cps.360buy.com^
-||cps.loocha.cn$app=com.realcloud.loochadroid.college^
 ||crash.163.com^
 ||crashlytics.163.com^
 ||crashlytics.com^
@@ -952,16 +940,6 @@
 ||doubleclick.de^
 ||doubleclick.net^
 ||douyin.com^
-||douyin.com$removeparam=aid^
-||douyin.com$removeparam=cursor^
-||douyin.com$removeparam=earch_cursor^
-||douyin.com$removeparam=extra_params^
-||douyin.com$removeparam=modeFrom^
-||douyin.com$removeparam=pre_vid^
-||douyin.com$removeparam=previous_page^
-||douyin.com$removeparam=secUid^
-||douyin.com$removeparam=tab_name^
-||douyin.com$removeparam=xtra_params^
 ||download.bav.baidu.com^
 ||download.loocha.cn^
 ||download.loocha.cn:6443^
@@ -1320,7 +1298,6 @@
 ||ifacelog.iqiyi.com^
 ||ifs.tanx.com^
 ||i-game.book.qq.com^
-||i-game.book.qq.com$app=com.qidian.QDReader^
 ||igehuo.com^
 ||igetui.com^
 ||igexin.com^
@@ -1398,9 +1375,6 @@
 ||ipinyou.com.cn^
 ||ipm.atm.cp31.ott.cibntv.net^
 ||ipm.atm.youku.com^
-||iqiyi.com$removeparam=vfrm^
-||iqiyi.com$removeparam=vfrmblk^
-||iqiyi.com$removeparam=vfrmrst^
 ||ireadb.com^
 ||ireadsu.com^
 ||ironsrc.com^
@@ -1572,7 +1546,6 @@
 ||log.mmstat.com^
 ||log.music.baidu.com^
 ||log.qchannel03.cn^
-||log.qchannel03.cn$app=cn.kuwo.player^
 ||log.sina.cn^
 ||log.tagtic.cn^
 ||log.tbs.qq.com^
@@ -1587,7 +1560,6 @@
 ||loginza.ru^
 ||logonext.tv.kuyun.com^
 ||logs.chelaile.net.cn^
-||logs.chelaile.net.cn$app=com.tencent.mm^
 ||log-sdk.gifshow.com^
 ||log-sdk.ksapisrv.com^
 ||logstat.t.sfht.com^
@@ -1598,8 +1570,6 @@
 ||longyunad.com^
 ||longyun-group.com^
 ||longyunpay.com^
-||loocha.cn$app=com.realcloud.loochadroid.college^
-||loocha.com.cn$app=com.realcloud.loochadroid.college^
 ||loveshop8.com^
 ||lovestu.com^
 ||lovstone.com^
@@ -2448,8 +2418,6 @@
 ||tkweb.baidu.com^
 ||t-l.play.aiseet.atianqi.com^
 ||t-l.play.cp81.ott.cibntv.net^
-||tmall.com$removeparam=bxsign^
-||tmall.com$removeparam=union_lens^
 ||tmfsdktcpv4.m.qq.com^
 ||tnc3-aliec2.snssdk.com^
 ||tnc3-alisc1.snssdk.com^
@@ -2514,8 +2482,6 @@
 ||uat1.bfsspadserver.8le8le.com^
 ||ubacollect-drcn.cloud.dbankcloud.cn^
 ||ubmcmm.baidustatic.com^
-||uc123.com$removeparam=f^
-||uc123.com$removeparam=pid^
 ||ucstat.baidu.com^
 ||udpolimeok.baidu.com^
 ||uerlqe.com^
@@ -2739,7 +2705,6 @@
 ||wts.xinwen.cn^
 ||wuliunj.cn^
 ||wvcfg.alicdn.com^
-||wvcfg.alicdn.com$app=fm.xiami.main^
 ||ww23a.com^
 ||wwads.cn^
 ||wxa.wxs.qq.com^
@@ -2809,9 +2774,6 @@
 ||youtube.2cnt.net^
 ||youtube.com##.ytp-ce-covering-overlay^
 ||youtube.com##.ytp-ce-element^
-||youtube.com$remoreparam=event^
-||youtube.com$remoreparam=redir_token^
-||youtube.com$remoreparam=t^
 ||youyouguang1999.com^
 ||ysm.yahoo.com^
 ||yt.mmstat.com^
