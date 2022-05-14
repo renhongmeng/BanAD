@@ -672,7 +672,6 @@
 ||acasys88.cn^
 ||access.njherald.com^
 ||access.pangolin-sdk-toutiao-b.com^
-||access1.tpns.tencent.com^
 ||acdn.adnxs.com^
 ||acento.com^
 ||ac-gb.mgid.com^
@@ -1560,7 +1559,6 @@
 ||amazingmagics.com^
 ||amazon-adsystem.com^
 ||amch.questionmarket.com^
-||amdc.alipay.com^
 ||amdc.m.taobao.com^
 ||amfi.gou.sogou.com^
 ||amiok.org^
@@ -1656,7 +1654,6 @@
 ||api.dsp.yhd.com^
 ||api.enthusiastgaming.net^
 ||api.exc.mob.com^
-||api.facebook.com^
 ||api.flocktory.com^
 ||api.g1.junfull.com^
 ||api.g2.junfull.com^
@@ -2004,7 +2001,6 @@
 ||bad1.51gxqm.com^
 ||badad.googleplex.com^
 ||badao37.net^
-||badge.facebook.com^
 ||bai3.gushiwen.org^
 ||baiapk.com^
 ||baichuan.baidu.com^
@@ -2143,8 +2139,6 @@
 ||beacon.sina.com.cn^
 ||beacon.tingyun.com^
 ||beacon.wikia-services.com^
-||gvt2.com^
-||gvt3.com^
 ||beacon-us-sjc1.rubiconproject.com^
 ||beacon-us-west.rubiconproject.com^
 ||beap.adss.yahoo.com^
@@ -3416,7 +3410,6 @@
 ||detuns.com^
 ||dev.tg.youxi.com^
 ||developerprofiles-pa.clients6.google.com^
-||developers.facebook.com^
 ||device-metrics-us.amazon.com^
 ||device-metrics-us-2.amazon.com^
 ||dev-push.m.youku.com^
@@ -3995,7 +3988,6 @@
 ||edge.quantserve.com^
 ||edge.sharethis.com^
 ||edge.yunjiasu.com^
-||edge-mqtt.facebook.com^
 ||edigitalsurvey.com^
 ||ediuschina.com^
 ||edncui.net^
@@ -4151,7 +4143,6 @@
 ||f70123.com^
 ||f8272.com^
 ||fa.163.com^
-||facebook.com^
 ||facebookma.cn^
 ||faggrim.com^
 ||fair.sogou.com^
@@ -4631,7 +4622,6 @@
 ||gqswg.com^
 ||graizoah.com^
 ||grand.ele.me^
-||graph.facebook.com^
 ||green.erne.co^
 ||greenhouseglobal.cn^
 ||greenxfs.down.123ch.cn^
@@ -6160,7 +6150,6 @@
 ||m.emgwq.com^
 ||m.enjuk.com^
 ||m.ennmt.com^
-||m.facebook.com^
 ||m.fbaix.com^
 ||m.fbaot.com^
 ||m.fcaot.com^
@@ -6795,8 +6784,6 @@
 ||mqqad.cs0309.html5.qq.com^
 ||mqqad.html5.qq.com^
 ||mqqadr.reader.qq.com^
-||mqtt.zhihu.com^
-||mqtt-mini.facebook.com^
 ||mr.da.netease.com^
 ||mrelko.com^
 ||mrksys.com^
@@ -7441,7 +7428,6 @@
 ||pindao.huoban.taobao.com^
 ||ping.acc.sogou.com^
 ||ping.chartbeat.net^
-||ping.pinyin.sogou.com^
 ||ping.weiduofan.com^
 ||pingbi.diudou.com^
 ||pingdom.net^
@@ -8751,7 +8737,6 @@
 ||sss.zbred.com^
 ||ssso.ru^
 ||sssvd.china.com^
-||s-static.ak.facebook.com^
 ||sstc360.com^
 ||ssum.casalemedia.com^
 ||ssum-sec.casalemedia.com^
@@ -8855,7 +8840,6 @@
 ||statics-marketingsites-eus-ms-com.akamaized.net^
 ||statictest.fraudmetrix.cn^
 ||static-xl9-ssl.xunlei.com^
-||staticxx.facebook.com^
 ||statis.api.3g.youku.com^
 ||statisticsv2.yinyuetai.com^
 ||stats.g.doubleclick.net^
@@ -9696,7 +9680,6 @@
 ||v1-feed.idreamsky.com^
 ||v2.da.mgtv.com^
 ||v2.fm.n.duokanbox.com^
-||v2.get.sogou.com^
 ||v2.hunantv.com^
 ||v2.jiathis.com^
 ||v2.reachmax.cn^
@@ -9947,7 +9930,6 @@
 ||web.ali213.net^
 ||web.da.mgtv.com^
 ||web.data.pplive.com^
-||web.facebook.com^
 ||web.hb.ad.cpe.dotomi.com^
 ||web.houyi.baofeng.net^
 ||web.kuaisouwifi.com^
@@ -10142,7 +10124,6 @@
 ||www.datadoghq-browser-agent.com^
 ||www.doubleclickbygoogle.com^
 ||www.drom.ru^
-||www.facebook.com^
 ||www.facebook.net^
 ||www.fastly-insights.com^
 ||www.giraff.io^
@@ -10678,7 +10659,6 @@
 ||zo66.com^
 ||zoomdecorate.rambler.ru^
 ||zp22938576.com^
-||z-p42-instagram.c10r.facebook.com^
 ||zpe.klre.18183.com^
 ||zq84.com^
 ||zqworks.com^
