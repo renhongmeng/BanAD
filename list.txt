@@ -581,7 +581,6 @@
 ||a.yjbys.com^
 ||a.youdao.com^
 ||a1.0s.net.cn^
-||a1.alicdn.com^
 ||a1.api.bbc.co.uk^
 ||a1.azg168.cn^
 ||a1.gexing.me^
