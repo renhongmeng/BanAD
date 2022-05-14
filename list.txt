@@ -2143,13 +2143,8 @@
 ||beacon.sina.com.cn^
 ||beacon.tingyun.com^
 ||beacon.wikia-services.com^
-||beacons.gcp.gvt2.com^
-||beacons.gvt2.com^
-||beacons2.gvt2.com^
-||beacons3.gvt2.com^
-||beacons4.gvt2.com^
-||beacons5.gvt2.com^
-||beacons5.gvt3.com^
+||gvt2.com^
+||gvt3.com^
 ||beacon-us-sjc1.rubiconproject.com^
 ||beacon-us-west.rubiconproject.com^
 ||beap.adss.yahoo.com^
@@ -8189,7 +8184,6 @@
 ||s.yjkyj.cn^
 ||s.yjtag.jp^
 ||s.youmi.net^
-||s.youtube.com^
 ||s.ysxufeng.com^
 ||s.yunpifu.cn^
 ||s.zampdsp.com^
