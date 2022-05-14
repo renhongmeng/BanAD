@@ -5981,7 +5981,6 @@
 ||logger.baofeng.com^
 ||logger.qingting.fm^
 ||logger.treexml.baofeng.com^
-||login.live.com^
 ||login.vk.com^
 ||logonext.tv.kuyun.com^
 ||logoshejishi.com^
@@ -6799,7 +6798,6 @@
 ||mscimg.com^
 ||msclick2.kuwo.cn^
 ||mscom.demdex.net^
-||msedge.b.tlu.dl.delivery.mp.microsoft.com^
 ||msg*.video.qiyi.com^
 ||msg.71.am^
 ||msg.c002.ottcn.com^
