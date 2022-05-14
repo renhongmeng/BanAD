@@ -2971,7 +2971,6 @@
 ||content.s8bbs.com^
 ||content.streamplay.to^
 ||contentabc.com^
-||content-autofill.googleapis.com^
 ||contentrecommend-out.mobile.sina.cn^
 ||contextual.media.net^
 ||contile.services.mozilla.com^
@@ -4946,7 +4945,6 @@
 ||i.zhuoyaju.com^
 ||i1.hdslb.com^
 ||i1.services.social.microsoft.com^
-||i1.ytimg.com^
 ||i1236.net^
 ||i2.akjunshi.com^
 ||i2ad.jp^
