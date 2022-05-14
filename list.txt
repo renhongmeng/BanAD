@@ -2800,7 +2800,6 @@
 ||client.sidesearch.lycos.com^
 ||client.stats.yinyuetai.com^
 ||client.tenddata.com^
-||client.wns.windows.com^
 ||client-analytics.braintreegateway.com^
 ||client-api.ele.me^
 ||client-dmp.suishenyun.cn^
@@ -7350,11 +7349,6 @@
 ||pee.cn^
 ||pegasus.cmcm.com^
 ||pei-ads.playboy.com^
-||people-pa.clients6.google.com^
-||people-pa.googleapis.com^
-||peoplestack-pa.clients6.google.com^
-||peoplestack-pa.googleapis.com^
-||peoplestackwebexperiments-pa.clients6.google.com^
 ||perfectaudience.com^
 ||perf-events.cloud.unity3d.com^
 ||performancehorizon.com^
@@ -7373,7 +7367,6 @@
 ||pglstatp-toutiao.com^
 ||phar.gu-web.net^
 ||phluant.com^
-||phonedeviceverification-pa.googleapis.com^
 ||photo.dhford.cn^
 ||photo.lyghjzs.cn^
 ||photo.qianerbai.cn^
@@ -9631,7 +9624,6 @@
 ||usercollection.chinadaily.com.cn^
 ||usercount.dockernb.com^
 ||userimg.qunar.com^
-||userlocation.googleapis.com^
 ||usermatch.targeting.unrulymedia.com^
 ||uservoice.com^
 ||ushaqi.com^
