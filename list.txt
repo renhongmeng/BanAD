@@ -16,6 +16,13 @@
 @@||yule.sohu.com^
 @@||yyaan.com^
 @@||yyaan.top^
+@@||api.pjnoeru.top^
+@@||ark.intel.com^
+||d.reddit.com^
+||widgets.pinterest.com^
+||app.bugsnag.com^
+||api.bugsnag.com^
+||advertising-api-eu.amazon.com^
 ||0707.dm6x5adtqgu.org^
 ||09mk.cn^
 ||100baiying.com^
