@@ -9,6 +9,7 @@
 @@||static.yximgs.com^
 @@||t10.baidu.com^
 @@||t11.baidu.com^
+@@||static.cloudflareinsights.com^
 @@||t12.baidu.com^
 @@||t7.baidu.com^
 @@||t8.baidu.com^
