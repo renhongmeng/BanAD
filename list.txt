@@ -53,7 +53,7 @@
 /variety.tc.qq.com/
 /wlmonitor/
 /zjtoolbar/
-||11.jiangzi.com^
+/analytics/
 ||111.darenjiazu.com^
 ||12.cookcai.com^
 ||13.cookcai.com^
